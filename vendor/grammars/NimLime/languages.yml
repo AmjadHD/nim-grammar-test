@@ -1,0 +1,10 @@
+# vendor/grammars/Nimlime/languages.yml
+
+nim:
+  type: programming
+  color: "#37775b"
+  extensions:
+    - ".nim"
+  tm_scope: source.nim
+  ace_mode: text
+  language_id: 999999
